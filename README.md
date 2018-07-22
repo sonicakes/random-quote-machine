@@ -1,5 +1,8 @@
 # random-quote-machine for FreeCodeCamp
 ## Front End Libraries Projects - Build a Random Quote Machine
+
+## Live link
+https://sonicakes.github.io/random-quote-machine/index.html
 ### Objective:
 - Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
